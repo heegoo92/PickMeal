@@ -1,6 +1,6 @@
 *.pyc
 *~
-*t.py
+pickmeal/settings.py
 __pycache__
 myvenv
 db.sqlite3
